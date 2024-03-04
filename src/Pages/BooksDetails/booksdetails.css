@@ -28,6 +28,12 @@ button {
     height: auto;
     max-width: 40%;
   }
+  .descImg{
+    border-radius: 20px;
+      margin-top: 2rem;
+      width: 12rem;
+      height: 16rem;
+  }
   @media screen and (max-width: 600px){
     .details{
         display: flex;

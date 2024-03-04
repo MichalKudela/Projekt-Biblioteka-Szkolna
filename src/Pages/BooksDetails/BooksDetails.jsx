@@ -27,7 +27,7 @@ const Details = () => {
                 <div className="book">
                     <h2>{book.title}</h2>
                     <p>Autor: {book.author}</p>
-                    <img src={`/BooksPictures/${book.id}.png`} alt={book.title} />
+                    <img className="descImg" src={`/BooksPictures/${book.id}.png`} alt={book.title} />
                 </div>
 
                 <div className="desc">
