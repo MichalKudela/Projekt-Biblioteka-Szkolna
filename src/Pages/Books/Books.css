@@ -13,7 +13,7 @@ b{
   justify-content: space-between;
   align-items: center;
   width: 8rem;
-  height: 20rem;
+  height: 22rem;
   margin: 0.5rem;
   border: 0.2rem solid rgb(0, 70, 45);
   overflow: hidden;
@@ -21,6 +21,7 @@ b{
   white-space: 'nowrap';
   background-color: rgb(235, 235, 176);
   padding: 0.5rem;
+  text-transform: capitalize;
   
 }
 img{

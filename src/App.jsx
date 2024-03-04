@@ -1,19 +1,23 @@
-import { useState } from 'react'
+import React from 'react';
 import './App.css';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
-import AboutUs from './components/Aboutus/AboutUs';
-import Books from './components/Books/Books';
+import Books from './Pages/Books/Books';
+import Details from "./Pages/BooksDetails/BooksDetails";
+import { BrowserRouter as Router, Route, Routes, BrowserRouter } from "react-router-dom";
 
 
 function App() {
-
+  
+  
   return (
     <>
-      <Header />
-      <AboutUs />
-      <Books />
-      <Footer />
+    
+      <BrowserRouter>
+        <Routes>
+          <Route index element={<Books />}/>
+          <Route path='/books' element={<Books />}/>
+          <Route path='/details/:bookId' element={<Details/>}/>
+        </Routes>
+      </BrowserRouter>
     </>
   )
 }

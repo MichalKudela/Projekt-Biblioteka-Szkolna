@@ -3,150 +3,178 @@
       "id": 1,
       "author": "Jan Parandowski",
       "title": "Mitologia, część I Grecja",
-      "amount": 10
+      "amount": 10,
+      "description":"Ta najbardziej znana książka Jana Parandowskiego zyskała kilkanaście wydań i od dawna pozostaje w kanonie lektur polskiej inteligencji. Mitologia należy do dzieł, z których, jak pisał Autor o pracach swego mistrza, wybitnego znawcy świata antycznego, Tadeusza Zielińskiego, nie tylko można się czegoś nauczyć, ale można się też przy nich czymś stać. Czas nie naruszył autorytetu, jaki się w tej książce objawia, aże Parandowskiego pociągała starożytność dionizyjska - żywiołowa i zmysłowa, nawet niecierpliwi czytelnicy Mitologii przekonują się raz po raz, że dawka nieśmiertelności nie musi być dawką nudy."
+
+
     },
     {
       "id": 2,
       "author": "Sofokles",
       "title": "Antygona",
-      "amount": 10
+      "amount": 10,
+      "description":" Tragedia Sofoklesa z roku 442 p.n.e. Nazywana jest tragedią władzy i klasyfikowana jako chronologicznie ostatnia z cyklu trzech tragedii tebańskich (Król Edyp, Edyp w Kolonie, Antygona) opartych na mitach o tebańskim rodzie Labdakidów. Utwór jest powszechnie uznawany za arcydzieło dramaturgii światowej o dużej sile oddziaływania na widza."
     },
     {
       "id": 3,
       "author": "Jan Kochanowski",
       "title": "Odprawa posłów greckich",
-      "amount": 10
+      "amount": 10,
+      "description":" Renesansowa tragedia autorstwa Jana Kochanowskiego, wystawiona po raz pierwszy 12 stycznia 1578 w Jazdowie pod Warszawą. Przedstawienie, które miało na celu uświetnienie uroczystości weselnych podkanclerzego koronnego Jana Zamoyskiego oraz Krystyny Radziwiłłówny, odbyło się w obecności polskiej pary królewskiej Stefana Batorego i Anny Jagiellonki. Utwór wydano drukiem w Warszawie w tym samym roku."
     },
     {
       "id": 4,
       "author": "William Szekspir",
       "title": "Makbet",
-      "amount": 10
+      "amount": 10,
+      "description":" tragedia Williama Shakespeare’a napisana około roku 1606, należy do najczęściej wystawianych i adaptowanych sztuk szekspirowskich, jest również najkrótszą tragedią jego autorstwa."
     },
     {
       "id": 5,
       "author": "Molier",
       "title": "Skąpiec",
-      "amount": 10
+      "amount": 10,
+      "description":"prozatorska komedia Moliera, wystawiona na deskach teatru po raz pierwszy 9 września 1668 roku. Sztuka zyskała uznanie w kręgach literackich. Cenił ją przede wszystkim Boileau, krytyk cieszący się w tamtym czasie autorytetem."
     },
     {
       "id": 6,
       "author": "Adam Mickiewicz",
       "title": "Konrad Wallenrod",
-      "amount": 10
+      "amount": 10,
+      "description":" powieść poetycka napisana przez Adama Mickiewicza na zsyłce w Moskwie, prawdopodobnie między rokiem 1825 a 1828, wydana zaś w lutym 1828 przez drukarnię Karola Kraya; uważana za jeden z najbardziej znanych poematów polskiego romantyzmu. "
     },
     {
       "id": 7,
       "author": "Adam Mickiewicz",
       "title": "Dziady cz. III",
-      "amount": 10
+      "amount": 10,
+      "description":"utwór dramatyczny Adama Mickiewicza należący do cyklu dramatów Dziady. Utwór powstawał w roku 1832 w Dreźnie. Opublikowany został po raz pierwszy w 1832 roku jako IV tom Poezji (w wydaniu zbiorowym), oraz rok później w edycji osobnej. "
     },
     {
       "id": 8,
       "author": "Juliusz Słowacki",
       "title": "Kordian",
-      "amount": 10
+      "amount": 10,
+      "description":"Kordian po raz pierwszy pojawia się w dramacie jako 15-letni młodzieniec. Bohater swój wolny czas poświęca rozważaniom nad sensem własnej egzystencji, przeżywa rozczarowania romantyczną miłością. To wszystko prowadzi do próby samobójczej, aczkolwiek nieudanej. "
     },
     {
       "id": 9,
       "author": "Bolesław Prus",
       "title": "Lalka",
-      "amount": 10
+      "amount": 10,
+      "description":"powieść społeczno-obyczajowa Bolesława Prusa publikowana w odcinkach w latach 1887–1889 w dzienniku „Kurier Codzienny”, wydana w 1890 w Warszawie w wydawnictwie „Gebethner i Wolff”."
     },
     {
       "id": 10,
       "author": "Eliza Orzeszkowa",
       "title": "Gloria victis",
-      "amount": 10
+      "amount": 10,
+      "description":"Prawie pięćdziesiąt lat po upadku powstania styczniowego Orzeszkowa chciała przypomnieć wysiłek powstańców. Uważała, że młodzież, poddawana dobrowolnej lub przymusowej rusyfikacji, zapominała o roli tych wydarzeń. Nowela Elizy Orzeszkowej, która ukazała się po raz pierwszy w 1910 roku w zbiorze opowiadań pod tym samym tytułem."
     },
     {
       "id": 11,
       "author": "Henryk Sienkiewicz",
       "title": "Potop",
-      "amount": 10
+      "amount": 10,
+      "description":"druga z powieści tworzących Trylogię Henryka Sienkiewicza wydana w 1886 roku (pozostałe części to Ogniem i mieczem i Pan Wołodyjowski), opowiadająca o potopie szwedzkim z lat 1655–1660."
     },
     {
       "id": 12,
       "author": "Fiodor Dostojewski",
       "title": "Zbrodnia i kara",
-      "amount": 10
+      "amount": 10,
+      "description":"Książka opowiada o perypetiach Rodiona Romanowicza Raskolnikowa, 23-letniego byłego studenta prawa. Rodia był półsierotą, miał jednak kochającą rodzinę. "
     },
     {
       "id": 13,
       "author": "Stanisław Wyspiański",
       "title": "Wesele",
-      "amount": 10
+      "amount": 10,
+      "description":"Utwór nawiązuje do autentycznego wydarzenia, jakim było wesele poety Lucjana Rydla i chłopki Jadwigi Mikołajczykówny. Ślub miał miejsce 20 listopada 1900 roku w bazylice Najświętszej Maryi Panny w Krakowie, wesele zaś w podkrakowskiej wsi Bronowice. "
     },
     {
       "id": 14,
       "author": "Stefan Żeromski",
       "title": "Przedwiośnie",
-      "amount": 10
+      "amount": 10,
+      "description":"powieść polityczna Stefana Żeromskiego wydana w 1924 (datowana 1925) w Warszawie w wydawnictwie Jakuba Mortkowicza. Utwór podzielony na trzy części („Szklane domy”, „Nawłoć”, „Wiatr od wschodu”), opowiada o życiu Cezarego Baryki – przedstawiciela młodego pokolenia, urodzonego i wychowanego w carskiej Rosji"
     },
     {
       "id": 15,
       "author": "Tadeusz Borowski",
       "title": "Opowiadania",
-      "amount": 10
+      "amount": 10,
+      "description":"Tadeusz Borowski jest jednym z najbardziej znanych polskich poetów. Jego opowiadania są poświęcone ludziom, którzy podczas wojny byli przetrzymywani w łagrach (niemieckich obozach koncentracyjnych). Znał doskonale sytuację więźniów, ponieważ sam został skazany na pobyt w jednym z lagrów, gdzie spędził kilka lat."
     },
     {
       "id": 16,
       "author": "Gustaw Herling-Grudziński",
       "title": "Inny świat",
-      "amount": 10
+      "amount": 10,
+      "description":"wspomnienia Gustawa Herlinga-Grudzińskiego, pisane w latach 1949–1950. Utwór należy do kręgu literatury obozowej, stanowiąc literackie opracowanie wspomnień autora z jego uwięzienia w łagrze w Jercewie pod Archangielskiem w latach 1940–1942."
     },
     {
       "id": 17,
       "author": "Hanna Krall",
       "title": "Zdążyć przed Panem Bogiem",
-      "amount": 10
+      "amount": 10,
+      "description":"książka Hanny Krall oparta na wywiadzie z Markiem Edelmanem, w którym wspominał powstanie w getcie warszawskim oraz swoją pracę jako kardiolog. "
     },
     {
       "id": 18,
       "author": "Albert Camus",
       "title": "Dżuma",
-      "amount": 10
+      "amount": 10,
+      "description":"Zaliczana do dzieł XX-wiecznej literatury egzystencjalistycznej, realistycznie opowiada o epidemii dżumy w algierskim Oranie, znajdującym się wówczas w kolonii francuskiej. Wydarzenia opisane są z punktu widzenia neutralnego narratora. "
     },
     {
       "id": 19,
       "author": "George Orwell",
       "title": "Rok 1984",
-      "amount": 10
+      "amount": 10,
+      "description":" futurystyczna dystopia o licznych podtekstach politycznych, napisana przez George’a Orwella i opublikowana w roku 1949. Autor napisał ją pod wpływem kontaktu z praktyczną stroną systemu stalinowskiego. "
     },
     {
       "id": 20,
       "author": "Sławomir Mrożek",
       "title": "Tango",
-      "amount": 10
+      "amount": 10,
+      "description":"Bohaterem sztuki jest Artur, syn awangardowego artysty Stomila i Eleonory. Rodzice burzyli się przeciwko tradycji, szokowali i burzyli stary porządek. Artur dorasta więc w świecie pozbawionym ładu, hierarchii i moralnego porządku. On sam nie ma więc możliwości buntowania się przeciwko konwencji i uzyskania w ten sposób dojrzałości. "
     },
     {
       "id": 21,
       "author": "Marek Nowakowski",
       "title": "Górą Edek",
-      "amount": 10
+      "amount": 10,
+      "description":"Opowiadanie Górą „Edek” zostało napisane przez Marka Nowakowskiego. Należy do zbioru utworów twórcy pod tytułem „Prawo prerii”, wydanego w 1999 roku. W bardzo krótkiej formie autor zawarł wycinek rzeczywistości, który stanowi jednak trafną diagnozę dla społeczeństwa. "
     },
     {
       "id": 22,
       "author": "Jacek Dukaj",
       "title": "Katedra",
-      "amount": 10
+      "amount": 10,
+      "description":"Ksiądz Pierre Lavone – narrator opowieści – wizytuje planetoidę, na której pochowany został Izmir Predú, przez wielu uznawany za świętego za sprawą cudów dokonujących się przy jego grobie. Raport księdza ma pomóc zwierzchnikom kościelnym podjąć decyzję o autentyczności cudów i postanowić, czy pozwolić odlecieć w kosmos swobodnie wędrującej asteroidzie."
     },
     {
       "id": 23,
       "author": "Andrzej Stasiuk",
       "title": "Miejsce",
-      "amount": 10
+      "amount": 10,
+      "description":"Miejsce Andrzeja Stasiuka prowadzi narrator, który bliżej się nam jednak nie przedstawia. Cała uwaga odbiorcy zostaje bowiem skoncentrowana na opisywanym przez niego miejscu."
+
     },
     {
       "id": 24,
       "author": "Olga Tokarczuk",
       "title": "Profesor Andrews w Warszawie",
-      "amount": 10
+      "amount": 10,
+      "description":" opowiada o popularnym uczonym, zagubionym w Warszawie. Porzucony przez opiekunów w obcym mieście obserwuje zachowania mieszkańców, które są dla niego coraz bardziej niezrozumiałe i dziwaczne. "
     },
     {
       "id": 25,
       "author": "Homer",
       "title": "Iliada",
-      "amount": 10
+      "amount": 10,
+      "description":" Iliada, której głównym motywem, zapowiedzianym w inwokacji, jest opowieść o tym, jak największy grecki wojownik – Achilles (syn Tetydy i Peleusa, ojciec Neoptolemosa) – w gniewie porzuca walkę z Trojańczykami,  po tym, jak Agamemnon odbiera mu brankę Bryzejdę."
     }
   ]
